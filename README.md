@@ -14,4 +14,4 @@ Video 3 Title - Relationship between OS and Hardware
 Video 3 URL - https://drive.google.com/file/d/1sa-K5ikFn5bVkDTYW6fValujjrdvRoTE/view?usp=drive_link
 
 Video 4 Title - Programming paradigms used in AI
-Video 4 URL - 
+Video 4 URL - https://drive.google.com/file/d/1wzCabFkIxW1vg29EXxJoYPxys6Pj4rVk/view?usp=drive_link
